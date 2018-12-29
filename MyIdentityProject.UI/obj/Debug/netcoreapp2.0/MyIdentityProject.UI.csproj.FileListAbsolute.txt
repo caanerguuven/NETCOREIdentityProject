@@ -1,0 +1,11 @@
+D:\DeveloperSide\MyEducationProjects\MyIdentityProject\MyIdentityProject\MyIdentityProject.UI\bin\Debug\netcoreapp2.0\MyIdentityProject.UI.deps.json
+D:\DeveloperSide\MyEducationProjects\MyIdentityProject\MyIdentityProject\MyIdentityProject.UI\bin\Debug\netcoreapp2.0\MyIdentityProject.UI.runtimeconfig.json
+D:\DeveloperSide\MyEducationProjects\MyIdentityProject\MyIdentityProject\MyIdentityProject.UI\bin\Debug\netcoreapp2.0\MyIdentityProject.UI.runtimeconfig.dev.json
+D:\DeveloperSide\MyEducationProjects\MyIdentityProject\MyIdentityProject\MyIdentityProject.UI\bin\Debug\netcoreapp2.0\MyIdentityProject.UI.dll
+D:\DeveloperSide\MyEducationProjects\MyIdentityProject\MyIdentityProject\MyIdentityProject.UI\bin\Debug\netcoreapp2.0\MyIdentityProject.UI.pdb
+D:\DeveloperSide\MyEducationProjects\MyIdentityProject\MyIdentityProject\MyIdentityProject.UI\obj\Debug\netcoreapp2.0\MyIdentityProject.UI.csproj.CoreCompileInputs.cache
+D:\DeveloperSide\MyEducationProjects\MyIdentityProject\MyIdentityProject\MyIdentityProject.UI\obj\Debug\netcoreapp2.0\MyIdentityProject.UI.AssemblyInfoInputs.cache
+D:\DeveloperSide\MyEducationProjects\MyIdentityProject\MyIdentityProject\MyIdentityProject.UI\obj\Debug\netcoreapp2.0\MyIdentityProject.UI.AssemblyInfo.cs
+D:\DeveloperSide\MyEducationProjects\MyIdentityProject\MyIdentityProject\MyIdentityProject.UI\obj\Debug\netcoreapp2.0\MyIdentityProject.UI.dll
+D:\DeveloperSide\MyEducationProjects\MyIdentityProject\MyIdentityProject\MyIdentityProject.UI\obj\Debug\netcoreapp2.0\MyIdentityProject.UI.pdb
+D:\DeveloperSide\MyEducationProjects\MyIdentityProject\MyIdentityProject\MyIdentityProject.UI\obj\Debug\netcoreapp2.0\MyIdentityProject.UI.csprojAssemblyReference.cache
